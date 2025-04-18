@@ -43,7 +43,8 @@ def content_based_recommendations(input_song_name, num_recommendations=5):
                                                                          'Artists',
                                                                          'Album Name',
                                                                          'Release Date',
-                                                                         'Popularity']]
+                                                                         'Popularity'
+                                                                         ]]
 
     return content_based_recommendations
 
