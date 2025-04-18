@@ -1,4 +1,4 @@
-Track Name,Artists,Album Name,Album ID,Track ID,Popularity,Release Date,Duration (ms),Explicit,Spotify URL,Danceability,Energy,Key,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo
+Track Name,Artists,Album Name,Album ID,Track ID,Popularity,Release Date,Duration (ms),Explicit,External URLs,Danceability,Energy,Key,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo
 I'm Good (Blue),"David Guetta, Bebe Rexha",I'm Good (Blue),7M842DMhYVALrXsw3ty7B3,4uUG5RXrOk84mYEfFvj3cK,94,26/8/2022,175238,TRUE,https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK,0.561,0.965,7,-3.673,0,0.0343,0.00383,7.07E-06,0.371,0.304,128.04
 FE!N (feat. Playboi Carti),"Travis Scott, Playboi Carti",UTOPIA,18NOKLkZETa4sWwLMIm0UZ,42VsgItocQwOQC3XWZ8JNA,93,28/7/2023,191701,TRUE,https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA,0.569,0.882,3,-2.777,0,0.06,0.0316,0,0.142,0.201,148.038
 Boy's a Liar Pt. 2,"PinkPantheress, Ice Spice",Boy's a liar Pt. 2,6cVfHBcp3AdpYY0bBglkLN,6AQbmUe0Qwf5PZnt4HmTXv,92,3/2/2023,131013,TRUE,https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv,0.696,0.809,5,-8.254,1,0.05,0.252,0.000128,0.248,0.857,132.962
